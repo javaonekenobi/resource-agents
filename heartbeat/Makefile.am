@@ -130,6 +130,7 @@ ocf_SCRIPTS	      = AoEtarget		\
 			jira			\
 			kamailio		\
 			lxc			\
+			lxd			\
 			lxd-info		\
 			machine-info		\
 			mariadb			\

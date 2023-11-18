@@ -157,6 +157,7 @@ man_MANS                = ocf_heartbeat_AoEtarget.7 \
                           ocf_heartbeat_kamailio.7 \
                           ocf_heartbeat_lvmlockd.7 \
                           ocf_heartbeat_lxc.7 \
+                          ocf_heartbeat_lxd.7 \
                           ocf_heartbeat_lxd-info.7 \
                           ocf_heartbeat_machine-info.7 \
                           ocf_heartbeat_mariadb.7 \
