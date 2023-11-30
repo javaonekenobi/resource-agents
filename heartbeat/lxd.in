@@ -39,7 +39,7 @@
 : ${OCF_FUNCTIONS_DIR=${OCF_ROOT}/lib/heartbeat}
 . ${OCF_FUNCTIONS_DIR}/ocf-shellfuncs
 
-HA_RSCTMP=/var/run/resource-agents
+HA_RSCTMP="/var/run/resource-agents"
 # Defaults
 OCF_RESKEY_log_default="${HA_RSCTMP}/${OCF_RESOURCE_INSTANCE}.log"
 OCF_RESKEY_use_screen_default="false"
